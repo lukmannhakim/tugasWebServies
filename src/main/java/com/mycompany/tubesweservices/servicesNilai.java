@@ -16,7 +16,7 @@ import javax.ejb.Stateless;
  */
 @WebService(serviceName = "servicesNilai")
 @Stateless()
-public clas servicesNilai {
+public class servicesNilai {
 
     /**
      * This is a sample web service operation
